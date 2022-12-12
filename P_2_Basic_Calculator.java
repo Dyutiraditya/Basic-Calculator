@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P_2_Basic_Calculator  {
+public class Calculator  {
     public static void main(String[] args) {
 
         float x = 0;
