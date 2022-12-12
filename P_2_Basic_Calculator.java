@@ -7,11 +7,11 @@ public class Calculator  {
         float y = 0;
 
         Scanner reader = new Scanner (System.in);
-        System.out.println("X= ");
+        System.out.print("X= ");
         x = reader.nextFloat();
-        System.out.println("Y= ");
+        System.out.print("Y= ");
         y = reader.nextFloat();
-        System.out.println("Enter an operator (+, -, *, /,%)= ");
+        System.out.print("Enter an operator (+, -, *, /,%)= ");
         char operator = reader.next().charAt(0);
         float result;
 
