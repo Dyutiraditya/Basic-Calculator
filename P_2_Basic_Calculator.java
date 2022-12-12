@@ -1,5 +1,3 @@
-package D_1_a_BeginnerOfJava;
-
 import java.util.Scanner;
 
 public class P_2_Basic_Calculator  {
